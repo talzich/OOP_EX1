@@ -64,9 +64,7 @@ The assignment was defined by the three interfaces mentioned in the previous sec
   
   
       }
-  
-  This `graph` object represents the next graph:
-  ![myGraph](/Users/talzichlinsky/Downloads/IMG_3335603A2BE6-1.jpeg)
+
   
     
  
