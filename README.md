@@ -59,10 +59,6 @@ The assignment was defined by the three interfaces mentioned in the previous sec
           alg.init(graph);//alg will now apply all its algorithms with graph
   
           List<node_info> path = alg.shortestPath(0,4);//This list will hold the shortest path from 0 to 4
-  
-  
-  
-  
       }
 
   
